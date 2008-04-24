@@ -4,7 +4,7 @@
         # Label to retrieve SimHits from the event
         untracked string SimHitLabel = "g4SimHits"
         # Label to retrieve Digis from the event
-        untracked string DigiLabel = "muonDTDigis"
+        untracked string DigiLabel = "simMuonDTDigis"
         # Name of the root file which will contain the histos
         untracked string outputFile = "DTDigiPlots.root"
     }
